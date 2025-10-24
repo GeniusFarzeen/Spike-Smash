@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    background: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.logo {
+    font-size: 50px;
+    margin-top: 40px;
+    text-shadow: 0px 0px 10px #ff0000;
+}
+
+.btn {
+    font-size: 24px;
+    padding: 12px 30px;
+    background: red;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+canvas {
+    display: none;
+    background: #111;
+    margin: 20px auto;
+    border: 3px solid red;
+}
